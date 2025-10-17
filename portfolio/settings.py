@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = ["34.244.242.141",
                  "dheerajkk.onrender.com",
                  "localhost", 
-                 "127.0.0.1",]
+                ]
 
 #ALLOWED_HOSTS = [*]
 
